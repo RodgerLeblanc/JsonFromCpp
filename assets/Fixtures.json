@@ -1,0 +1,524 @@
+[
+  {
+    "type":"item",
+    "id":"1",
+    "dateNumber":"12/06/2014",
+    "fixtureInfo":"Brazil vs Croatia",
+    "dateInfo":"Thursday 12 June 2014",
+    "timeInfo":"17:00 (Local Time)",
+    "timestamp":"1402603200000",
+    "stadiumInfo":"Arena de Sao Paulo"
+  },
+
+
+
+  {
+    "type":"item",
+    "id":"1",
+    "dateNumber":"13/06/2014",
+    "fixtureInfo":"Mexico vs Cameroon",
+    "dateInfo":"Friday 13 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1402675200000",
+    "stadiumInfo":"Estadio das Dunas"
+  },
+  {
+    "type":"item",
+    "id":"2",
+    "dateNumber":"13/06/2014",
+    "fixtureInfo":"Spain vs Netherlands",
+    "dateInfo":"Friday 13 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp": "1402686000000",
+    "stadiumInfo":"Arena Fonte Nova"
+  },
+  {
+    "type":"item",
+    "id":"3",
+    "dateNumber":"13/06/2014",
+    "fixtureInfo":"Chile vs Australia",
+    "dateInfo":"Friday 13 June 2014",
+    "timeInfo":"18:00 (Local Time)",
+    "timestamp":"1402693200000",
+    "stadiumInfo":"Arena Pantanal"
+  },
+
+
+
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"14/06/2014",
+    "fixtureInfo":"Colombia vs Greece",
+    "dateInfo":"Saturday 14 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1402761600000",
+    "stadiumInfo":"Estadio Mineirao"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"14/06/2014",
+    "fixtureInfo":"Uruguay vs Costa Rica",
+    "dateInfo":"Saturday 14 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp": "1402772400000",
+    "stadiumInfo":"Estadio Castelao"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"14/06/2014",
+    "fixtureInfo":"England vs Italy",
+    "dateInfo":"Saturday 14 June 2014",
+    "timeInfo":"18:00 (Local Time)",
+    "timestamp":"1402779600000",
+    "stadiumInfo":"Arena Amazonia"
+  },
+  {
+  	"type":"item",
+  	"id":"4",
+  	"dateNumber":"14/06/2014",
+    "fixtureInfo":"Côte d’Ivoire vs Japan",
+    "dateInfo":"Saturday 14 June 2014",
+    "timestamp":"1402794000000",
+    "timeInfo":"22:00 (Local Time)",
+    "stadiumInfo":"Arena Pernambuco"
+  },
+
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"15/06/2014",
+    "fixtureInfo":"Switzerland vs Ecuador",
+    "dateInfo":"Sunday 15 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1402848000000",
+    "stadiumInfo":"Estadio Nacional"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"15/06/2014",
+    "fixtureInfo":"France vs Honduras",
+    "dateInfo":"Sunday 15 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1402858800000",
+    "stadiumInfo":"Estadio Beira-Rio"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"15/06/2014",
+    "fixtureInfo":"Argentina vs Bosnia and Herzegovina",
+    "dateInfo":"Sunday 15 June 2014",
+    "timeInfo":"19:00 (Local Time)",
+    "timestamp":"1402869600000",
+    "stadiumInfo":"Estadio Do Maracana"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"16/06/2014",
+    "fixtureInfo":"Germany vs Portugal",
+    "dateInfo":"Monday 16 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1402934400000",
+    "stadiumInfo":"Arena Fonta Nova"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"16/06/2014",
+    "fixtureInfo":"Iran vs Nigeria",
+    "dateInfo":"Monday 16 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1402945200000",
+    "stadiumInfo":"Arena da Baixada"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"16/06/2014",
+    "fixtureInfo":"Ghana vs USA",
+    "dateInfo":"Monday 16 June 2014",
+    "timeInfo":"19:00 (Local Time)",
+    "timestamp":"1402956000000",
+    "stadiumInfo":"Estadio das Dunas"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"17/06/2014",
+    "fixtureInfo":"Belgium vs Algeria",
+    "dateInfo":"Tuesday 17 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403020800000",
+    "stadiumInfo":"Estadio Mineirao"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"17/06/2014",
+    "fixtureInfo":"Brazil vs Mexico",
+    "dateInfo":"Tuesday 17 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403031600000",
+    "stadiumInfo":"Estadio Castelao"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"17/06/2014",
+    "fixtureInfo":"Russia vs Korea Republic",
+    "dateInfo":"Tuesday 17 June 2014",
+    "timeInfo":"18:00 (Local Time)",
+    "timestamp":"1403038800000",
+    "stadiumInfo":"Arena Pantanal"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"18/06/2014",
+    "fixtureInfo":"Australia vs Netherlands",
+    "dateInfo":"Wednesday 18 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403107200000",
+    "stadiumInfo":"Estadio Beira-Rio"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"18/06/2014",
+    "fixtureInfo":"Spain vs Chile",
+    "dateInfo":"Wednesday 18 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403118000000",
+    "stadiumInfo":"Estadio Do Maracana"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"18/06/2014",
+    "fixtureInfo":"Cameroon vs Croatia",
+    "dateInfo":"Wednesday 18 June 2014",
+    "timeInfo":"18:00 (Local Time)",
+    "timestamp":"1403125200000",
+    "stadiumInfo":"Arena Amazonia"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"19/06/2014",
+    "fixtureInfo":"Colombia vs Côte d’Ivoire",
+    "dateInfo":"Thursday 19 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403193600000",
+    "stadiumInfo":"Estadio Nacional"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"19/06/2014",
+    "fixtureInfo":"Uruguay vs England",
+    "dateInfo":"Thursday 19 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403204400000",
+    "stadiumInfo":"Arena Corinthians"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"19/06/2014",
+    "fixtureInfo":"Japan vs Greece",
+    "dateInfo":"Thursday 19 June 2014",
+    "timeInfo":"19:00 (Local Time)",
+    "timestamp":"1403215200000",
+    "stadiumInfo":"Estadio das Dunas"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"20/06/2014",
+    "fixtureInfo":"Italy vs Costa Rica",
+    "dateInfo":"Friday 20 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403280000000",
+    "stadiumInfo":"Arena Pernambuco"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"20/06/2014",
+    "fixtureInfo":"Switzerland vs France",
+    "dateInfo":"Friday 20 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403290800000",
+    "stadiumInfo":"Arena Fonte Nova"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"20/06/2014",
+    "fixtureInfo":"Honduras vs Ecuador",
+    "dateInfo":"Friday 20 June 2014",
+    "timeInfo":"19:00 (Local Time)",
+    "timestamp":"1403301600000",
+    "stadiumInfo":"Arena da Baixada"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"21/06/2014",
+    "fixtureInfo":"Argentina vs Iran",
+    "dateInfo":"Saturday 21 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403366400000",
+    "stadiumInfo":"Estadio Mineirao"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"21/06/2014",
+    "fixtureInfo":"Germany vs Ghana",
+    "dateInfo":"Saturday 21 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403377200000",
+    "stadiumInfo":"Estadio Castelao"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"21/06/2014",
+    "fixtureInfo":"Nigeria vs Bosnia and Herzegovina",
+    "dateInfo":"Saturday 21 June 2014",
+    "timeInfo":"18:00 (Local Time)",
+    "timestamp":"1403384400000",
+    "stadiumInfo":"Arena Pantanal"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"22/06/2014",
+    "fixtureInfo":"Belgium vs Russia",
+    "dateInfo":"Sunday 22 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403452800000",
+    "stadiumInfo":"Estadio Do Maracana"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"22/06/2014",
+    "fixtureInfo":"Korea Republic vs Algeria",
+    "dateInfo":"Sunday 22 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403463600000",
+    "stadiumInfo":"Estadio Beira-Rio"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"22/06/2014",
+    "fixtureInfo":"USA vs Portugal",
+    "dateInfo":"Sunday 22 June 2014",
+    "timeInfo":"18:00 (Local Time)",
+    "timestamp":"1403470800000",
+    "stadiumInfo":"Arena Amazonia"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"23/06/2014",
+    "fixtureInfo":"Netherlands vs Chile",
+    "dateInfo":"Monday 23 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403539200000",
+    "stadiumInfo":"Arena Corinthians"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"23/06/2014",
+    "fixtureInfo":"Australia vs Spain",
+    "dateInfo":"Monday 23 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403539200000",
+    "stadiumInfo":"Arena da Baixada"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"23/06/2014",
+    "fixtureInfo":"Cameroon vs Brazil",
+    "dateInfo":"Monday 23 June 2014",
+    "timeInfo":"17:00 (Local Time)",
+    "timestamp":"1403553600000",
+    "stadiumInfo":"Estadio Nacional"
+  },
+  {
+  	"type":"item",
+  	"id":"4",
+  	"dateNumber":"23/06/2014",
+    "fixtureInfo":"Croatia vs Mexico",
+    "dateInfo":"Monday 23 June 2014",
+    "timeInfo":"17:00 (Local Time)",
+    "timestamp":"1403553600000",
+    "stadiumInfo":"Arena Pernambuco"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"24/06/2014",
+    "fixtureInfo":"Italy vs Uruguay",
+    "dateInfo":"Tuesday 24 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403625600000",
+    "stadiumInfo":"Estadio das Dunas"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"24/06/2014",
+    "fixtureInfo":"Costa Rica vs England",
+    "dateInfo":"Tuesday 24 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403625600000",
+    "stadiumInfo":"Estadio Mineirao"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"24/06/2014",
+    "fixtureInfo":"Japan vs Colombia",
+    "dateInfo":"Tuesday 24 June 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403636400000",
+    "stadiumInfo":"Arena Pantanal"
+  },
+  {
+  	"type":"item",
+  	"id":"4",
+  	"dateNumber":"24/06/2014",
+    "fixtureInfo":"Greece vs Côte d’Ivoire",
+    "dateInfo":"Tuesday 24 June 2014",
+    "timeInfo":"17:00 (Local Time)",
+    "timestamp":"1403640000000",
+    "stadiumInfo":"Estadio Castelao"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"25/06/2014",
+    "fixtureInfo":"Nigeria vs Argentina",
+    "dateInfo":"Wednesday 25 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403712000000",
+    "stadiumInfo":"Estadio Beira-Rio"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"25/06/2014",
+    "fixtureInfo":"Bosnia and Herzegovina vs Iran",
+    "dateInfo":"Wednesday 25 June 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403712000000",
+    "stadiumInfo":"Arena Fonte Nova"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"25/07/2014",
+    "fixtureInfo":"Honduras vs Switzerland",
+    "dateInfo":"Wednesday 25 July 2014",
+    "timeInfo":"16:00 (Local Time)",
+    "timestamp":"1403722800000",
+    "stadiumInfo":"Arena Amazonia"
+  },
+  {
+  	"type":"item",
+  	"id":"4",
+  	"dateNumber":"25/07/2014",
+    "fixtureInfo":"Ecuador vs France",
+    "dateInfo":"Wednesday 25 July 2014",
+    "timeInfo":"17:00 (Local Time)",
+    "timestamp":"1403726400000",
+    "stadiumInfo":"Estadio Do Maracana"
+  },
+  
+  
+  
+  {
+  	"type":"item",
+  	"id":"1",
+  	"dateNumber":"26/07/2014",
+    "fixtureInfo":"Portugal vs Ghana",
+    "dateInfo":"Thursday 26 July 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403798400000",
+    "stadiumInfo":"Estadio Nacional"
+  },
+  {
+  	"type":"item",
+  	"id":"2",
+  	"dateNumber":"26/07/2014",
+    "fixtureInfo":"USA vs Germany",
+    "dateInfo":"Thursday 26 July 2014",
+    "timeInfo":"13:00 (Local Time)",
+    "timestamp":"1403798400000",
+    "stadiumInfo":"Arena Pernambuco"
+  },
+  {
+  	"type":"item",
+  	"id":"3",
+  	"dateNumber":"26/07/2014",
+    "fixtureInfo":"Korea Republic vs Belgium",
+    "dateInfo":"Thursday 26 July 2014",
+    "timeInfo":"17:00 (Local Time)",
+    "timestamp":"1403812800000",
+    "stadiumInfo":"Arena Corinthians"
+  },
+  {
+  	"type":"item",
+  	"id":"4",
+  	"dateNumber":"26/07/2014",
+    "fixtureInfo":"Algeria vs Russia",
+    "dateInfo":"Thursday 26 July 2014",
+    "timeInfo":"17:00 (Local Time)",
+    "timestamp":"1403812800000",
+    "stadiumInfo":"Arena da Baixada"
+  }
+]
